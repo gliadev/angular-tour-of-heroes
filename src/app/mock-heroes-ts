@@ -1,0 +1,3 @@
+import { Hero } from "./heroes"
+
+export const HEROES : Hero[] = [];
